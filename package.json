@@ -1,0 +1,12 @@
+{
+  "name": "fd_server_express_15-09",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "node ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
