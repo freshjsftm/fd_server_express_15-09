@@ -1,0 +1,9 @@
+POST http://localhost:3000/users HTTP/1.1
+Content-Type: application/json
+
+{
+  "name":"  Elon Musk  123 ",
+  "email":"elon123@gmail.com",
+  "password":"musk123",
+  "gender": true
+}
